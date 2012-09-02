@@ -13,13 +13,13 @@ projects[context][version] = "3.0-beta4"
 
 projects[devel][version] = "1.3"
 
+projects[features_extra][version] = "1.x-dev"
+
 projects[features][version] = "1.0"
 
 projects[fontyourface][version] = "2.4"
 
 projects[imce][version] = "1.5"
-
-projects[nice_menus][version] = "2.1"
 
 projects[node_export][version] = "3.0"
 
@@ -31,9 +31,13 @@ projects[panels_breadcrumbs][version] = "1.6"
 
 projects[pathauto][version] = "1.2"
 
+projects[special_menu_items][version] = "1.0"
+
 projects[token][version] = "1.2"
 
 projects[uuid][version] = "1.0-alpha3+47-dev"
+
+projects[uuid_features][version] = "1.0-alpha1"
 
 projects[views][version] = "3.5"
 
