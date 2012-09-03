@@ -33,6 +33,8 @@ projects[pathauto][version] = "1.2"
 
 projects[special_menu_items][version] = "1.0"
 
+projects[strongarm][version] = "2.0"
+
 projects[token][version] = "1.2"
 
 projects[uuid][version] = "1.0-alpha3+47-dev"
